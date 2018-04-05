@@ -131,7 +131,7 @@ username = input("\nUsername : ")
 password = getpass.getpass()
 print("=====================================================")
 
-if username == "agung" and password == "12345" :
+if username == "fiqri" and password == "2018" :
     menu()
 
 else :
